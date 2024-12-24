@@ -1,0 +1,21 @@
+{
+  "config": 
+  {
+    "name": "SkillboxSearchEngine",
+    "version": "0.1",
+    "maxResponses": "5"
+  },
+  "files":
+  {
+    "1": "Ivan Vasilievich Changes Profession.txt",
+    "2": "Seventeen Moments of Spring.txt",
+    "3": "The Place of meeting can not be changed.txt",
+    "4": "Ruslan and Ludmila.txt",
+    "5": "Salyut 7.txt",
+    "6": "The Irony of Fate, or Enjoy Your Bath!.txt",
+    "7": "Only old men are going into battle.txt",
+    "8": "The Adventures of Sherlock Holmes and Dr. Watson.txt",
+    "9": "Four Tank-Men and a Dog.txt",
+    "10": "The Three Musketeers.txt"
+  }
+}
